@@ -59,7 +59,7 @@ Designed and integrated an **agentic AI assistant** into an HR platform to make 
 - Used TensorBoard to visualize training behavior and support model analysis.
 - Explored model evaluation and training optimization.
 
-### Imos — Web Development Internship, Oujda
+### Développement d’une application de la gestion de Notification et Suivi -Tkinter 
 *2024*
 
 - Developed a web application for notification management and ticket tracking.
