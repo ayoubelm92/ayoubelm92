@@ -1,4 +1,4 @@
-<!-- PROFILE README for ayoubelm92 -->
+<!-- Profile README: ayoubelm92 -->
 
 <div align="center">
 
@@ -6,12 +6,13 @@
 
 ### AI Engineering Student · Machine Learning · Data Analytics
 
-Building practical AI solutions at the intersection of **machine learning, computer vision, data, and software engineering**.
+**Turning data into insights and AI ideas into practical solutions.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-ayoubelm92-181717?style=for-the-badge&logo=github)](https://github.com/ayoubelm92)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![AI](https://img.shields.io/badge/Artificial_Intelligence-6C63FF?style=for-the-badge)](#areas-of-interest)
-[![Data](https://img.shields.io/badge/Data_Analytics-00897B?style=for-the-badge)](#technical-toolkit)
+<p>
+  <a href="https://github.com/ayoubelm92"><img src="https://img.shields.io/badge/GitHub-ayoubelm92-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/ayoub-el-mouhib-780a3b280/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:ayoub.elmouhib23@ump.ac.ma"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 </div>
 
@@ -19,111 +20,157 @@ Building practical AI solutions at the intersection of **machine learning, compu
 
 ## 👋 About Me
 
-I'm an AI engineering student with a background in **Data Analytics and Business Intelligence**. I enjoy exploring machine learning methods, building intelligent applications, and turning technical ideas into practical projects.
+I'm an AI engineering student with a background in **Data Analytics and Business Intelligence**. I enjoy designing intelligent applications, exploring machine learning methods, and building software that solves real problems.
 
-My experience includes AI data integration, web application development, neural-network training visualization, and computer-vision model evaluation.
+My experience spans **agentic AI, data integration, machine learning, deep learning, computer vision, NLP, and web development**. I am especially interested in systems that combine language models, business data, and reliable software architecture.
 
-- 🔭 **Interested in:** Machine learning, deep learning, computer vision, and AI-powered applications
-- 🧠 **Exploring:** CNN optimization, attention mechanisms, and quantum-inspired approaches
-- 🛠️ **Building with:** Python, ML frameworks, web technologies, and databases
-- 🌱 **Growing in:** DevOps, distributed systems, and reproducible software workflows
+- 🧠 **AI:** Agentic workflows, LLM tool calling, machine learning, deep learning
+- 👁️ **Computer vision:** CNNs, image classification, YOLO-based detection
+- 📊 **Data:** Analytics, visualization, data processing, business intelligence
+- 🧩 **Software:** Python services, APIs, web applications, databases
+- 🌱 **Currently developing:** My portfolio of documented AI and software projects
 
-## 🚀 Featured Work
+## 💼 Internship Experience
 
-### Agentic AI Assistant — Tessi Career (Tessi Maroc)
-During my three-month internship, I designed and developed an agentic AI assistant for an HR platform. It interprets natural-language requests, selects tools, queries business data, and returns contextual answers.
+### Tessi Maroc — Agentic AI Assistant for Tessi Career
+*Three-month engineering internship · 2026*
 
-- ReAct-style tool orchestration with LLaMA 3.3 70B via Groq and a LLaMA 3.1 8B fallback
-- Skills-based talent search with typo-tolerant matching
-- Automatic extraction and structuring of CV information from PDF and DOCX
-- Multilingual interactions in French, English, Arabic, and Spanish
-- Image understanding, voice requests, and conversational memory
-- FastAPI microservice, Keycloak/JWT security, and execution monitoring
+Designed and integrated an **agentic AI assistant** into an HR platform to make company information easier to access through natural-language requests. Rather than acting as a simple FAQ chatbot, the assistant can select tools, retrieve relevant business data, and compose contextual responses.
 
-*This is a high-level project summary; company code and confidential data are not included.*
+**Key features**
+- **Agentic tool orchestration:** ReAct-style Reason–Act–Observe workflow and dynamic tool calling.
+- **HR information retrieval:** Access to collaborator profiles, skills, expert search, HR statistics, and training catalogue.
+- **Skill-based expert discovery:** Search for employees by expertise, with fuzzy matching to tolerate spelling variations.
+- **CV intelligence:** Extract and structure information from PDF and DOCX resumes.
+- **Multilingual interaction:** French, English, Arabic, and Spanish.
+- **Multimodal requests:** Image understanding and voice-request support.
+- **Conversation context:** Persistent conversation history and contextual follow-up questions.
+- **Interactive responses:** Structured answers and clickable collaborator cards.
+- **Observability:** Track agent executions, response latency, errors, and token usage.
 
+**Technical environment:** Python, FastAPI, LLMs via Groq, Llama models, MySQL, REST APIs, React/Next.js integration, Java Spring Boot ecosystem, Keycloak/JWT.
 
+*This description is intentionally high-level and does not expose company source code, credentials, or confidential business data.*
 
-### Quantum-Inspired CNN Architecture Optimization
+### Machine Learning & Deep Learning Internship
+*2025*
+
+- Worked on neural-network training and image-classification workflows.
+- Used TensorBoard to visualize training behavior and support model analysis.
+- Explored model evaluation and training optimization.
+
+### Imos — Web Development Internship, Oujda
+*2024*
+
+- Developed a web application for notification management and ticket tracking.
+- Worked on web application structure and practical software development.
+
+## 🚀 Featured Projects
+
+### 1. Quantum-Inspired CNN Architecture Optimization
 Research project exploring the architectural optimization of convolutional neural networks using a quantum-inspired attention mechanism.
 
-**Topics:** CNNs · Attention mechanisms · Deep learning · Model optimization
+**Focus:** CNNs · Attention mechanisms · Deep learning · Model optimization
 
-[![Explore project](https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github)](https://github.com/ayoubelm92/optimization-project)
+[![View repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/ayoubelm92/optimization-project)
 
-### Other Projects
+### 2. Skin Cancer Detection — Classical vs. Quantum-Inspired Approach
+Comparative machine-learning project investigating an SVM baseline and a quantum-inspired approach for skin-cancer image classification.
 
-| Project | Overview | Main topics |
-|---|---|---|
-| Skin cancer detection: SVM vs. quantum-inspired approach | Comparative study of classical and quantum-inspired methods for classification | Machine learning · Medical image analysis |
-| YOLO model evaluation web application | Web application work involving YOLOv8/YOLO11 model analysis | Python · Django · Computer vision |
-| Neural-network training visualization | Training visualization and optimization with TensorBoard for image classification | Deep learning · TensorBoard |
-| Student–teacher communication interface | Web interface designed to support communication | Web development |
-| Python calculator and Arduino robotics | Academic programming and robotics projects | Python · Arduino · Embedded systems |
+**Focus:** SVM · Classification · Medical image analysis · Model comparison
 
-*Additional project repositories and technical documentation will be added as they are ready to share.*
+### 3. Computer Vision with YOLOv8 and YOLO11
+Web application work for analyzing and evaluating object-detection models through a Django-based interface.
+
+**Focus:** Python · Django · YOLO · Computer vision · Model evaluation
+
+### 4. Neural-Network Training Visualization
+Image-classification work using TensorBoard to inspect neural-network training behavior and support optimization.
+
+**Focus:** Neural networks · TensorBoard · Deep learning
+
+### 5. Student–Teacher Communication Platform
+Web interface project designed to support communication between students and teachers.
+
+**Focus:** Web development · Interface design · Software engineering
+
+### 6. Smart Agriculture with AI and Connected Devices
+Exploration of an AI-assisted agriculture concept combining sensor data and connected hardware to support farmers.
+
+**Focus:** AI · Smart agriculture · Sensors · Raspberry Pi
+
+### 7. Python Calculator & Arduino Robotics
+Academic projects involving a calculator built with Python and robotics/electronics experiments using Arduino.
+
+**Focus:** Python · Arduino · Robotics · Embedded systems
+
+> More repositories, demos, and technical documentation will be linked here as projects are ready to share. Some projects are still private; this profile describes them without exposing their source code.
 
 ## 🧰 Technical Toolkit
 
-**Programming**
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+### Programming Languages
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+</p>
 
-**AI, Machine Learning & Data**
+### AI, Machine Learning & Data
+<p>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
 
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-- **Machine learning:** classification, regression, KNN, K-means, decision trees, SVM
-- **Deep learning & vision:** CNNs, artificial neural networks, YOLOv8, YOLO11
-- **NLP:** TF-IDF, Word2Vec, BERT
+- **Machine learning:** Classification, regression, KNN, K-means, decision trees, SVM
+- **Deep learning & computer vision:** CNNs, neural networks, YOLOv8, YOLO11
+- **Natural language processing:** TF-IDF, Word2Vec, BERT
 - **Data visualization:** Matplotlib, Seaborn, TensorBoard
+- **Agentic AI:** LLM tool calling, ReAct-style workflows, conversational memory
 
-**Web, databases & systems**
+### Web Development, Databases & Tools
+<p>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+</p>
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-Also familiar with Redis, Cassandra, Neo4j, InfluxDB, Windows, Arduino, and Cisco Packet Tracer.
-
-## 💼 Experience
-
-- **AI Data Integration — Tessil Maroc (2026):** Internship involving AI data integration into an HR platform.
-- **Machine Learning / Deep Learning (2025):** Neural-network training visualization and optimization using TensorBoard for image classification.
-- **Web Development — Imos, Oujda (2024):** Development of a notification-management and ticket-tracking application.
+Also familiar with Redis, Cassandra, Neo4j, InfluxDB, Windows, Cisco Packet Tracer, Arduino, REST APIs, and JWT-based authentication.
 
 ## 🎓 Education
 
-- **Engineering studies in Artificial Intelligence** — Currently pursuing
+- **Engineering studies in Computer Science / Artificial Intelligence** — Currently in the 4th year at EHEI
 - **Bachelor's degree in Data Analytics and Business Intelligence** — Honors: Bien
+- **DUT in Business Intelligence and Machine Learning**
 - **Baccalaureate in Physical Sciences** — Mention: Bien
 
-## 🤝 Beyond Code
+## 🤝 Activities
 
-I have participated in robotics, electronics, and Enactus clubs, including helping organize robotics club activities.
+- Robotics club member and contributor to organizing club activities
+- Electronics club member
+- Enactus member
 
-## 📫 Contact
+## 📫 Let's Connect
 
-- **Email:** [ayoub.elmouhib23@ump.ac.ma](mailto:ayoub.elmouhib23@ump.ac.ma)
 - **LinkedIn:** [Ayoub El Mouhib](https://www.linkedin.com/in/ayoub-el-mouhib-780a3b280/)
+- **Email:** [ayoub.elmouhib23@ump.ac.ma](mailto:ayoub.elmouhib23@ump.ac.ma)
 - **GitHub:** [@ayoubelm92](https://github.com/ayoubelm92)
 
 ---
 
 <div align="center">
 
-*Learning continuously. Building thoughtfully. Exploring what's possible with AI.*
+*Always learning, building, and exploring new possibilities with AI.*
 
 </div>
