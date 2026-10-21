@@ -30,6 +30,20 @@ My experience includes AI data integration, web application development, neural-
 
 ## 🚀 Featured Work
 
+### Agentic AI Assistant — Tessi Career (Tessi Maroc)
+During my three-month internship, I designed and developed an agentic AI assistant for an HR platform. It interprets natural-language requests, selects tools, queries business data, and returns contextual answers.
+
+- ReAct-style tool orchestration with LLaMA 3.3 70B via Groq and a LLaMA 3.1 8B fallback
+- Skills-based talent search with typo-tolerant matching
+- Automatic extraction and structuring of CV information from PDF and DOCX
+- Multilingual interactions in French, English, Arabic, and Spanish
+- Image understanding, voice requests, and conversational memory
+- FastAPI microservice, Keycloak/JWT security, and execution monitoring
+
+*This is a high-level project summary; company code and confidential data are not included.*
+
+
+
 ### Quantum-Inspired CNN Architecture Optimization
 Research project exploring the architectural optimization of convolutional neural networks using a quantum-inspired attention mechanism.
 
@@ -103,6 +117,7 @@ I have participated in robotics, electronics, and Enactus clubs, including helpi
 ## 📫 Contact
 
 - **Email:** [ayoub.elmouhib23@ump.ac.ma](mailto:ayoub.elmouhib23@ump.ac.ma)
+- **LinkedIn:** [Ayoub El Mouhib](https://www.linkedin.com/in/ayoub-el-mouhib-780a3b280/)
 - **GitHub:** [@ayoubelm92](https://github.com/ayoubelm92)
 
 ---
